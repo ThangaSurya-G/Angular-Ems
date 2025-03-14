@@ -22,26 +22,26 @@
 
 ## File Structure
 
-/employee-management
-├── src/
-│   ├── app/
-│   │   ├── add-user/
-│   │   │   ├── add-user.component.ts
-│   │   │   ├── add-user.component.html
-│   │   ├── list-user/
-│   │   │   ├── list-user.component.ts
-│   │   │   ├── list-user.component.html
-│   │   ├── edit-user/
-│   │   │   ├── edit-user.component.ts
-│   │   │   ├── edit-user.component.html
-│   │   ├── notfound/
-│   │   │   ├── notfound.component.html
-│   │   ├── services/
-│   │   │   ├── crud.service.ts
-├── backend/
-│   ├── database.json
-├── package.json
-├── README.md
+            /employee-management
+            ├── src/
+            │   ├── app/
+            │   │   ├── add-user/
+            │   │   │   ├── add-user.component.ts
+            │   │   │   ├── add-user.component.html
+            │   │   ├── list-user/
+            │   │   │   ├── list-user.component.ts
+            │   │   │   ├── list-user.component.html
+            │   │   ├── edit-user/
+            │   │   │   ├── edit-user.component.ts
+            │   │   │   ├── edit-user.component.html
+            │   │   ├── notfound/
+            │   │   │   ├── notfound.component.html
+            │   │   ├── services/
+            │   │   │   ├── crud.service.ts
+            ├── backend/
+            │   ├── database.json
+            ├── package.json
+            ├── README.md
 
 ## Usage
 
